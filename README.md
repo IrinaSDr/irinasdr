@@ -5,7 +5,7 @@
 Как начинающий тестировщик я изучила теорию тестирования, владею техниками написания тест-кейсов и баг-репортов. Освоила основы работы с YouGile и TestIT. 
 Готова к обучению и применению полученных знаний в реальных проектах.
 
-## Резюме 
+## 
 <a href="https://drive.google.com/file/d/14tvfLk_NuSoB1IC5EEEz2vztKjx6Mjdx/view?usp=sharing" target="_blank">
   <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/rez.png" alt="rezume" width="200"/>
 </a>
