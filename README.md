@@ -6,25 +6,27 @@
 Готова к обучению и применению полученных знаний в реальных проектах.
 
 ## Резюме 
-[Мое Резюме](https://drive.google.com/file/d/14tvfLk_NuSoB1IC5EEEz2vztKjx6Mjdx/view?usp=sharing)
+<a href="https://drive.google.com/file/d/14tvfLk_NuSoB1IC5EEEz2vztKjx6Mjdx/view?usp=sharing" target="_blank">
+  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/rez.png" alt="rezume" width="200"/>
+</a>
+
 
 ## Портфолио:
+<a href="https://docs.google.com/spreadsheets/d/1urQNjxcuVjekhh3uBRE5ml-wocPt8QRMuDcLoTZzw-E/edit?usp=sharing" target="_blank">
+  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/chek.png" alt="Чек-листы" width="200"/>
+</a>
+<a href="https://docs.google.com/spreadsheets/d/1xWSQZ5o_ZcTzMX12lGDwwgHAtHIzQ5m8gipH63ILras/edit?usp=sharing" target="_blank">
+  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/test.png" alt="Тест-кейсы" width="200"/>
+</a>
+<a href="https://docs.google.com/spreadsheets/d/1iDhfQma4gn-jIItFiwnZAnkW4QUuSeB_wAg5FsfW_Nc/edit?usp=sharing" target="_blank">
+  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/bag.png" alt="Баг-репорты" width="200"/>
+</a>
 <a href="https://drive.google.com/file/d/1H2QiXJJjtYkr9EvjzrocTyyln2xc-t6P/view?usp=sharing" target="_blank">
-  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/app_store.png" alt="App Store" width="180"/>
+  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/bd.png" alt="Базы Данных" width="200"/>
 </a>
-<a href="https://play.google.com/store/apps/dev?id=7087733035635027601" target="_blank">
-  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/google_play.png" alt="Google Play" width="180"/>
+<a href="https://drive.google.com/file/d/19V8NpMo4zybqe4uDI6betNR0q9-o1UJS/view?usp=sharing" target="_blank">
+  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/dizain.png" alt="Примеры техник тест-дизайна" width="200"/>
 </a>
-<a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
-</a>
-
-- Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Работа с Базами Данных](https://ссылочку_сюда)
 
 
 ## Для связи:
