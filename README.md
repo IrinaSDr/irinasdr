@@ -6,7 +6,7 @@
 Готова к обучению и применению полученных знаний в реальных проектах.
 
 ## 
-<a href="https://drive.google.com/file/d/14tvfLk_NuSoB1IC5EEEz2vztKjx6Mjdx/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1FBohSQaTbviqTgRmXwOCbLWF9JbcrE5l/view?usp=sharing" target="_blank">
   <img src="https://github.com/IrinaSDr/irinasdr/blob/main/assets/rez.png" alt="rezume" width="200"/>
 </a>
 
