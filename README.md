@@ -1,9 +1,11 @@
 [![Header](https://github.com/IrinaSDr/irinasdr/tree/main/assets/header.png)](https://github.com/IrinaSDr)
+<div align="center">
 ### 🎯 Здравствуйте, меня зовут Ирина и я начинающий тестировщик.
-## Портфолио:
+  </div>
 Я изучила теорию тестирования, владею техниками написания тест-кейсов и баг-репортов. Освоила основы работы с YouGile и TestIT. 
 Готова к обучению и применению полученных знаний в реальных проектах.
 
+## Портфолио:
 <a href="https://drive.google.com/file/d/1H2QiXJJjtYkr9EvjzrocTyyln2xc-t6P/view?usp=sharing" target="_blank">
   <img src="https://github.com/IrinaSDr/irinasdr/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
